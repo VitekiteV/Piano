@@ -1,0 +1,9 @@
+/build*
+
+*/*
+!*/*.cpp
+!*/*.h
+!*/*.ui
+!*/*.user
+!*/*.pro
+!*/sounds
